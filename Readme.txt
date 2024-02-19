@@ -12,7 +12,7 @@ How to run the Vehicle Parking Management System Project using PHP and MySQL
 
 6. Import vpmsdb.sql file(given inside the zip package in SQL file folder)
 
-7. Run the script http://localhost/HYDERABAD'S NEXT GALLERIA Vehicle parking Management System
+7. Run the script http://localhost/HYDERABAD'S NEXT GALLERIA Vehicle parking Management System/vpms
 
 Admin Credential
 Username: admin
@@ -23,3 +23,5 @@ Username: 1234567890
 Password: Test@123
 
 or Register a new user.
+
+download the code and enjoy all the webpages. Happy coding...😉.
